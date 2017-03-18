@@ -1,5 +1,4 @@
 // component changes when vm.currentView changes
-
 var home = {
   template: '<p>homepage</p>'
 }
